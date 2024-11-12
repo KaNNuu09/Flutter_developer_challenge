@@ -148,7 +148,7 @@ class HomeScreen extends StatelessWidget {
 
                 // Chart
                 SizedBox(
-                  height: height * 0.4, // Fixed height for the chart
+                  height: height * 0.37, // Fixed height for the chart
                   child: Padding(
                     padding:
                         const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
